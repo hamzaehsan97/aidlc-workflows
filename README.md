@@ -10,6 +10,11 @@ and GitHub Copilot.
 
 The Quick Start below installs the latest stable AI-DLC release.
 
+## Company extension in this fork
+
+For the proposed small-team SaaS baseline, start with [company/README.md](company/README.md).
+The extension uses an optional additive plugin and preserves the upstream engine.
+
 ## Quick Start
 
 ### 1. Install AI-DLC

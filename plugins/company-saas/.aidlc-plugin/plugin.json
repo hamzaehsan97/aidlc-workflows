@@ -1,0 +1,17 @@
+{
+  "name": "company-saas",
+  "version": "0.1.0",
+  "description": "Shared delivery practices for a small multi-product B2B SaaS team.",
+  "author": {
+    "name": "Company engineering"
+  },
+  "dependencies": [
+    "core"
+  ],
+  "aidlc": {
+    "contributes": {
+      "overlays": "contributions/",
+      "knowledge": "knowledge/"
+    }
+  }
+}
