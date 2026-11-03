@@ -1,0 +1,9 @@
+{
+  "inspected_on": "2026-11-01",
+  "fork_repository": "hamzaehsan97/aidlc-workflows",
+  "fork_base_commit": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+  "upstream_repository": "awslabs/aidlc-workflows",
+  "upstream_observed_commit": "c8ed1a7a3ee9dbd87447d0e4c544cbce2d4fb523",
+  "compatibility_baseline": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+  "status": "source baseline, not a floating release constraint"
+}
